@@ -89,7 +89,7 @@ Due to GitHub file size limits, large model files are hosted separately
    ```
    streamlit run app.py
    
-   The app will be available at `http://localhost:8501`
+   The app will be available at `http://localhost:8502`
    ```
    
 4.2. Test the model 
