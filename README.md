@@ -4,10 +4,18 @@
 
 A full-stack deep learning project for sentiment classification of tweets directed at U.S. airlines, using advanced NLP models like **BERT** and **BiLSTM**, wrapped in an interactive **Streamlit** web app.
 
-![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Transformers-yellow.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
+## 📥 Model Files
+
+Due to GitHub file size limits, large model files are hosted separately:
+
+- **BERT Model**: [Download tf_model.h5](https://drive.google.com/file/d/YOUR_FILE_ID)
+- **LSTM Model**: [Download lstm_model_50.h5](https://drive.google.com/file/d/YOUR_FILE_ID)
+- **LSTM Tokenizer**: [Download tokenizer_lstm_50.pkl](https://drive.google.com/file/d/YOUR_FILE_ID)
+
+### Setup with Models:
+1. Download the model files from the links above
+2. Place them in their respective folders as shown in the project structure
+3. Run `streamlit run app.py`
 
 ---
 
