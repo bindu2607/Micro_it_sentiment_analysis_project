@@ -76,7 +76,6 @@ Due to GitHub file size limits, large model files are hosted separately:
 1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-'''
 
 
 ## Setup and Usage
