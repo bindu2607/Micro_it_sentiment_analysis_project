@@ -1,4 +1,7 @@
+"# Large model files" 
 "model/bert/bert_model/tf_model.h5" 
 "model/lstm/lstm_model_50.h5" 
 "model/lstm/tokenizer_lstm_50.pkl" 
 "data/sentiment_analysis.csv" 
+"*.h5" 
+"*.pkl" 
