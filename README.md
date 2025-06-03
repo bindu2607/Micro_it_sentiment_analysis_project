@@ -6,11 +6,8 @@ A full-stack deep learning project for sentiment classification of tweets direct
 
 ## 📥 Model Files
 
-Due to GitHub file size limits, large model files are hosted separately:
+Due to GitHub file size limits, large model files are hosted separately
 
-- **BERT Model**: [Download tf_model.h5](https://drive.google.com/file/d/YOUR_FILE_ID)
-- **LSTM Model**: [Download lstm_model_50.h5](https://drive.google.com/file/d/YOUR_FILE_ID)
-- **LSTM Tokenizer**: [Download tokenizer_lstm_50.pkl](https://drive.google.com/file/d/YOUR_FILE_ID)
 
 ### Setup with Models:
 1. Download the model files from the links above
